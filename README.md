@@ -23,6 +23,10 @@ Este projeto foi desenvolvido com finalidade de servir como o esqueleto de uma e
   -yarn start
   
   Obs: Em caso de duvida veja o script no package.json
+  caso queira fazer por si mesmo:
+  -npx create-react-app my-app --template typescript
+  -yarn add react-router-dom
+  -yarn add @types/react-router-dom
 
 ## Tecnologias utilizada
 
